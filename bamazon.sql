@@ -16,25 +16,19 @@ INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Crabs Against Humidity", "toys and games", 15.99, 10);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Playstation", "video games", 499.00, 20);
+VALUES ("Playstation4", "video games", 499.00, 20);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("blender", "electronics", 249.00, 9);
+VALUES ("turnip", "produce", 15.00, 9);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("space heater", "electronics", 169.00, 16);
+VALUES ("space heater", "electronics", 50.00, 16);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("mp3 player", "electronics", 98.99, 4);
+VALUES ("mp3 player", "electronics", 23.50, 4);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("legos", "toys and games", 47.99, 11);
-
-INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("wireless mouse", "electronics", 120.49, 14);
-
-INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("red sweatshirt", "clothing", 23.99, 20);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("black pants", "clothing", 10.00, 10);
